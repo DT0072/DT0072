@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DT0072
 - 👀 I’m interested in CyberSecurity  
 - 🌱 I’m currently learning Information Technology
-- 📫 How to reach me dtkelvin9@gmail.com
+- 📫 How to reach me dt0072@tutanota.com
 
 <!---
 DT0072/DT0072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
