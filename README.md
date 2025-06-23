@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DT
-- 👀 I’m interested in Frontend Development & CyberSecurity
+- 👀 I’m interested in Frontend Development & Application Development
 - 🌱 I’m currently studying Bachelor of Science (Honours) in Information Technology at Sunway University | Lancaster University
 
 <!---
