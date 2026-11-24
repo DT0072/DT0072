@@ -1,8 +1,3 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=210&section=header&text=Hi%20there%2C%20I'm%20DT%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Application%20Developer&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
-</p>
-
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://github.com/DT0072">
